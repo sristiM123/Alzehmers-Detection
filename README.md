@@ -1,1 +1,1 @@
-# Sign-Language-Recognition
+# Alzehmers Detection
